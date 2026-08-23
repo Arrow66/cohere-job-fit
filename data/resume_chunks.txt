@@ -1,0 +1,15 @@
+Software Developer at Scotiabank (Toronto, May 2024–Jul 2025). Modernized the Wealth Engineering trading platform to React 18 with a Node.js BFF for advisor workflows used by wealth teams across Canada.
+Built Playwright end-to-end coverage and migrated 200+ Enzyme tests to React Testing Library, stabilizing CI/CD and clearing flaky failures ahead of production releases.
+Established LaunchDarkly feature flags so deploys could be decoupled from releases.
+Accelerated data-heavy trading views with SSR for advisors on large market and account screens.
+Unified 5+ trading micro-frontends with Module Federation.
+Remediated security findings before compliance deadlines and used Dynatrace for production root-cause analysis.
+Migrated Wealth Engineering workloads to Google Cloud.
+Full Stack Developer at Stimuliz Digital. Founding engineer on a Hyperledger Indy/Aries decentralized identity MVP. Provisioned AWS infrastructure-as-code with CI/CD and IAM.
+Application Developer at IBM. Built low-latency full-stack services in React and Go (Gin/gRPC) on OpenShift. Enforced SonarQube quality gates before production.
+Intermediate Software Developer at UST for Vanguard Charitable. React/Spring Boot platform for a $1B+ donor-advised fund; Auth0 MFA and WCAG 2.0 AA.
+Software Engineer at Lean Transition Solutions. Replaced a PHP monolith with Express/Next.js. Built live dashboards streaming 20+ machine sensor feeds over SSE.
+Wadjet AI hackathon: LangGraph + Gemini agents score job listings for scam risk with auditable TypeScript rubrics. Shipped a React SSE dashboard, Chrome extension, and partner API.
+Event-driven Python trading engine: pub/sub bus, position and daily-loss limits, order book P&L, CSV replay backtester.
+Master of Data Analytics at University of Niagara Falls. Honour Roll, CGPA 3.79/4.3. Coursework includes SQL databases, Python for data analysis, predictive analytics, data warehousing, and visualization.
+Languages and stack: Python, SQL, JavaScript/TypeScript, Java, Go, React, Node.js, REST APIs, Git, CI/CD, AWS, GCP, pandas, scikit-learn.

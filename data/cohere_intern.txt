@@ -1,0 +1,11 @@
+Cohere Software Engineer Intern (Fall / Winter 2026). Students building the next generation of machine learning models and NLP products. Full-time 3–6 month internship, co-op, or research work term. Must be enrolled in a post-secondary program.
+Teams: Frontend, Backend, Full-stack, and Infrastructure. Interns ship to production with ownership, mentored by full-time engineers.
+Ship user-facing product experiences: craft code for browsers or servers.
+Build features for the API platform that directly impact users.
+Design and implement robust data pipelines (crawlers, storage, filters).
+Design and implement scalable services or infrastructure for machine learning development.
+Build internal tooling (CI/CD, dev utilities) to move the team faster.
+Contribute to technical documentation, internal and external.
+Keep up with new models and adopt technologies that improve performance and reliability.
+Cohere is a security-first enterprise AI company. Foundation models plus end-to-end products for real business problems. Offices in Toronto (HQ), San Francisco, London, New York, Montreal, Paris, Berlin, Seoul. Remote-friendly.
+Cohere product stack includes Command (generation), Embed (retrieval), and Rerank (relevance). Enterprise RAG and agents are core use cases.

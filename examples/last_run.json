@@ -1,0 +1,58 @@
+{
+  "models": {
+    "embed": "embed-v4.0",
+    "rerank": "rerank-v3.5",
+    "chat": "command-a-03-2025"
+  },
+  "ranked": [
+    {
+      "requirement": "Teams: Frontend, Backend, Full-stack, and Infrastructure. Interns ship to production with ownership, mentored by full-time engineers.",
+      "evidence": "Languages and stack: Python, SQL, JavaScript/TypeScript, Java, Go, React, Node.js, REST APIs, Git, CI/CD, AWS, GCP, pandas, scikit-learn.",
+      "embed_score": 0.4123203158378601,
+      "rerank_score": 0.119747646
+    },
+    {
+      "requirement": "Teams: Frontend, Backend, Full-stack, and Infrastructure. Interns ship to production with ownership, mentored by full-time engineers.",
+      "evidence": "Full Stack Developer at Stimuliz Digital. Founding engineer on a Hyperledger Indy/Aries decentralized identity MVP. Provisioned AWS infrastructure-as-code with CI/CD and IAM.",
+      "embed_score": 0.3875724673271179,
+      "rerank_score": 0.07201439
+    },
+    {
+      "requirement": "Build internal tooling (CI/CD, dev utilities) to move the team faster.",
+      "evidence": "Built Playwright end-to-end coverage and migrated 200+ Enzyme tests to React Testing Library, stabilizing CI/CD and clearing flaky failures ahead of production releases.",
+      "embed_score": 0.3732227087020874,
+      "rerank_score": 0.06506231
+    },
+    {
+      "requirement": "Ship user-facing product experiences: craft code for browsers or servers.",
+      "evidence": "Software Engineer at Lean Transition Solutions. Replaced a PHP monolith with Express/Next.js. Built live dashboards streaming 20+ machine sensor feeds over SSE.",
+      "embed_score": 0.3244399428367615,
+      "rerank_score": 0.0609809
+    },
+    {
+      "requirement": "Teams: Frontend, Backend, Full-stack, and Infrastructure. Interns ship to production with ownership, mentored by full-time engineers.",
+      "evidence": "Application Developer at IBM. Built low-latency full-stack services in React and Go (Gin/gRPC) on OpenShift. Enforced SonarQube quality gates before production.",
+      "embed_score": 0.3887767195701599,
+      "rerank_score": 0.048266806
+    },
+    {
+      "requirement": "Cohere Software Engineer Intern (Fall / Winter 2026). Students building the next generation of machine learning models and NLP products. Full-time 3\u20136 month internship, co-op, or research work term. Must be enrolled in a post-secondary program.",
+      "evidence": "Intermediate Software Developer at UST for Vanguard Charitable. React/Spring Boot platform for a $1B+ donor-advised fund; Auth0 MFA and WCAG 2.0 AA.",
+      "embed_score": 0.31707561016082764,
+      "rerank_score": 0.03674534
+    },
+    {
+      "requirement": "Ship user-facing product experiences: craft code for browsers or servers.",
+      "evidence": "Unified 5+ trading micro-frontends with Module Federation.",
+      "embed_score": 0.31762129068374634,
+      "rerank_score": 0.026741542
+    },
+    {
+      "requirement": "Build internal tooling (CI/CD, dev utilities) to move the team faster.",
+      "evidence": "Migrated Wealth Engineering workloads to Google Cloud.",
+      "embed_score": 0.34598469734191895,
+      "rerank_score": 0.025489958
+    }
+  ],
+  "memo": "**Fit Memo: Cohere Software Engineer Intern (Fall/Winter 2026)**  \n\n**Production SWE / APIs / Frontend:** Candidate has shipped production-grade code across frontend and backend stacks, aligning with Cohere\u2019s requirement to build user-facing products. Evidence includes replacing a PHP monolith with Express/Next.js (0.061), building low-latency services in React and Go (0.048), and stabilizing CI/CD pipelines for production releases (0.065). Experience with REST APIs (0.120) and React (0.037, 0.065) directly maps to Cohere\u2019s frontend and API platform work.  \n\n**Data + ML-Adjacent Work:** Limited direct ML experience, but candidate has worked with data pipelines and scalable infrastructure. Built live dashboards streaming machine sensor data (0.061) and provisioned AWS infrastructure-as-code (0.072), relevant to Cohere\u2019s data pipeline and ML infrastructure tasks. Familiarity with pandas and scikit-learn (0.120) provides a foundation for ML-adjacent work.  \n\n**CI/CD and Security:** Strong CI/CD expertise demonstrated through stabilizing pipelines (0.065), enforcing quality gates (0.048), and provisioning IAM roles (0.072). Security-first mindset evident in Auth0 MFA implementation (0.037) and decentralized identity MVP work (0.072), aligning with Cohere\u2019s enterprise security focus.  \n\n**Gap:** No direct experience with machine learning model development or NLP products. While candidate has ML-adjacent skills, this gap would require mentorship to contribute fully to Cohere\u2019s core ML/NLP work.  \n\n**Recommendation:** Hire. Strong production SWE skills, CI/CD expertise, and security mindset outweigh the ML experience gap."
+}
