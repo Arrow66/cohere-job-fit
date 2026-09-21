@@ -1,4 +1,4 @@
-# Cohere Job Fit
+# Requirement Matcher
 
 A  retrieval pipeline on Cohere's actual product stack:
 
