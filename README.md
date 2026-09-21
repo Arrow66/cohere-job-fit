@@ -6,7 +6,6 @@ A  retrieval pipeline on Cohere's actual product stack:
 2. **Rerank** — score those snippets against the posting
 3. **Command** — write a grounded fit memo
 
-Built for the [Software Engineer Intern (Fall / Winter 2026)](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) application.
 
 ## Setup
 
